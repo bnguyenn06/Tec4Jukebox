@@ -1,0 +1,11 @@
+C:\Users\larry\source\repos\Juke\Juke\obj\Debug\Juke.csproj.AssemblyReference.cache
+C:\Users\larry\source\repos\Juke\Juke\obj\Debug\Juke.csproj.SuggestedBindingRedirects.cache
+C:\Users\larry\source\repos\Juke\Juke\obj\Debug\Juke.Juke.resources
+C:\Users\larry\source\repos\Juke\Juke\obj\Debug\Juke.Properties.Resources.resources
+C:\Users\larry\source\repos\Juke\Juke\obj\Debug\Juke.csproj.GenerateResource.cache
+C:\Users\larry\source\repos\Juke\Juke\obj\Debug\Juke.csproj.CoreCompileInputs.cache
+C:\Users\larry\source\repos\Juke\Juke\bin\Debug\Juke.exe.config
+C:\Users\larry\source\repos\Juke\Juke\bin\Debug\Juke.exe
+C:\Users\larry\source\repos\Juke\Juke\bin\Debug\Juke.pdb
+C:\Users\larry\source\repos\Juke\Juke\obj\Debug\Juke.exe
+C:\Users\larry\source\repos\Juke\Juke\obj\Debug\Juke.pdb
